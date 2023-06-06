@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.UniversitasPelitaBangsaTV" parent="@style/Theme.Leanback" />
+</resources>
